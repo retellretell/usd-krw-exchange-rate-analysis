@@ -1,10 +1,10 @@
 # USD/KRW Exchange Rate Analysis (2020–2025)
 
-## 📌 Overview
+## Overview
 This project analyzes the USD/KRW exchange rate from 2020 to 2025 using Python and the `yfinance` library.  
 It automates the retrieval of exchange rate data, stores it in a CSV file, and sets the foundation for further financial analysis or backtesting.
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - Python
 - pandas
 - yfinance
@@ -12,7 +12,7 @@ It automates the retrieval of exchange rate data, stores it in a CSV file, and s
 
 ## 📂 Project Structure
 
-## 📈 Sample Code
+## Sample Code
 ```python
 import yfinance as yf
 import pandas as pd
@@ -29,18 +29,18 @@ data.head()
 
 # USD/KRW Exchange Rate Analysis (2020~2025)
 
-## 📌 Overview
+## Overview
 This project analyzes the USD/KRW exchange rate from 2020 to 2025 using Python and yfinance. The objective is to download historical data, save it locally, and prepare it for further analysis or visualization.
 
-## 📁 Project Structure
+## Project Structure
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python
 - yfinance
 - pandas
 - Jupyter Notebook
 
-## 📈 Sample Code
+## Sample Code
 ```python
 import yfinance as yf
 import pandas as pd
